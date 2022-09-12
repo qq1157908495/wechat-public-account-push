@@ -29,7 +29,7 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "v-ljtAdRnuexqXIsppJrJVX1ztkUDz3-tLwnZx6SMB0",
       // 所在省份
-      province: "",
+      province: "上海",
       // 所在城市
       city: "上海",
       // 新历生日, 仅用作获取星座运势, 格式必须
